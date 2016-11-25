@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DishFinder</string>
+    <string name="opening_quote">“</string>
+    <string name="closing_quote">”</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="searchRadius">search_radius</string>
+</resources>

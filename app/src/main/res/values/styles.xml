@@ -1,0 +1,30 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat">
+
+
+    </style>
+
+    <style name="favoriteButton" parent="Theme.AppCompat" />
+    <style name="unFavoriteButton" parent="Theme.AppCompat.Light">
+        <item name="colorAccent">#ff009688</item>
+        <item name="android:tint">#fff</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat" />
+
+    <style name="SettingsTheme" parent="AppTheme"/>
+
+    <style name="CustomDialog" parent="Theme.AppCompat.Dialog">
+        <item name="android:background">#000</item>
+        <item name="android:windowNoTitle">false</item>
+    </style>
+
+</resources>
